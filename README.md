@@ -9,7 +9,7 @@
 
 ### Elements of the Project -
 
-- A major chunk of project involved the study of Leakage Detection techniques, and then, conducting experiments on a physical testbed (existing in CSIR-CEERI, Pilani) which has a pipeline network with all relevant sensors installed at various places, which mimics the arrangement of a typical water distribution network. PLC and SCADA system is installed for control and data collection.
+- A major chunk of project involved the study of Leakage Detection techniques, and then, conducting experiments on a physical testbed which has a pipeline network with all relevant sensors installed at various places, which mimics the arrangement of a typical water distribution network. PLC and SCADA system is installed for control and data collection.
 
 - Thereafter, data was collected by conducting experiments by simulating various types of leak and studying the behaviour of the system.
 

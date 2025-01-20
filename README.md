@@ -1,6 +1,6 @@
 # Leakage-Detection-in-Smart-Water-Distribution-Systems
 
-![Type](https://img.shields.io/badge/Type-Research_Project-yellow)
+
 ![Concepts](https://img.shields.io/badge/Concepts-Deep_Learning-blue)
 ![Language](https://img.shields.io/badge/Language-Python-red)
 ![Libraries](https://img.shields.io/badge/Libraries-Keras,_Tensorflow,_Scikit_Learn-green)
